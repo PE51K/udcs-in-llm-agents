@@ -1,0 +1,9 @@
+[submodule "agisdk"]
+	path = benchmarks/agisdk
+	url = https://github.com/PE51K/agisdk
+[submodule "benchmarks/WebShop"]
+	path = benchmarks/WebShop
+	url = https://github.com/princeton-nlp/WebShop
+[submodule "benchmarks/alfworld"]
+	path = benchmarks/alfworld
+	url = https://github.com/alfworld/alfworld

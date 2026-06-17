@@ -1,0 +1,11 @@
+# Secrets — never commit the real env file
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
