@@ -7,6 +7,13 @@ This repository contains the **experiment (verification) scripts** used to evalu
 prompt-based uncertainty quantification (UQ) for LLM agents — both fault detection on
 standard benchmarks and clarification seeking on underspecified tasks.
 
+## Verification results and trajectories
+
+The full verification results and agent trajectories from the paper's experiments are
+available here:
+
+- **[Verification results and trajectories (Google Drive)](https://drive.google.com/file/d/1QUJUwy-rA00x3U2uo9v-o6KIwPhvMc0d/view?usp=sharing)**
+
 ## Methods
 
 | Method | Directory | Description |
