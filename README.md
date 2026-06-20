@@ -3,6 +3,8 @@
 Public code release accompanying the paper
 **"Uncertainty Decomposition for Clarification Seeking in LLM Agents."**
 
+**Preprint:** [arXiv:2606.19559](https://arxiv.org/abs/2606.19559)
+
 This repository contains the **experiment (verification) scripts** used to evaluate
 prompt-based uncertainty quantification (UQ) for LLM agents — both fault detection on
 standard benchmarks and clarification seeking on underspecified tasks.
